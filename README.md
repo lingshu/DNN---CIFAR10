@@ -1,4 +1,4 @@
-# DNN---CIFAR10
+# DNN-CIFAR10
 
 I am creating a fully-connected deep neural network in Python from scratch. The network was trained on the CIFAR10 dataset and learned to classify images into 10 categories: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck.
 
